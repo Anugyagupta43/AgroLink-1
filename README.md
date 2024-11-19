@@ -12,7 +12,7 @@ https://crop-connect-lime.vercel.app/
 
 ## Features
 
-1. **Dual Interfaces**: CropConnect provides separate interfaces for consumers and sellers, accessible through the navbar with options for SignUp and SignIn including email verification for the created account.
+1. **Dual Interfaces**: Agrolink provides separate interfaces for consumers and sellers, accessible through the navbar with options for SignUp and SignIn including email verification for the created account.
 
 ***Seller Side***
 
